@@ -1,0 +1,5 @@
+beautifulsoup4==4.11.1
+discord.py==1.7.3
+humanfriendly==10.0
+requests==2.25.1
+samp_client==3.0.1
